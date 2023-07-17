@@ -8,6 +8,13 @@ The dataset contains still images, video sequences, positive-only frames, and ne
 The PolypGen dataset is an open-access dataset that comprises 1,537 polyp images, 2,225 positive video sequences, and 4,275 negative frames. The dataset is collected from six different centers in Europe and Africa. Altogether the dataset provides 3,762 positive frames and 4,275 negative frames. These still images and video frames are collected from varied populations, endoscopic systems, and surveillance expert in  Norway, France, United Kingdom, Egypt, and Italy and is one of the comprehensive open-access datasets for polyp detection and segmentation. 
 
 
+##Baseline results
+
+The state-of-the-art results on each center of PolypGen and video sequence dataset can be found here:
+[Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing](https://arxiv.org/abs/2303.07428)
+
+
+
 
 ## Citation
 Please cite our paper if you find the work useful: 
@@ -24,7 +31,7 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-please contact Sharib Ali or Debesh Jha (debesh.jha@northwestern.edu) for any further questions. 
+please contact Sharib Ali or Debesh Jha (debesh.jha@northwestern.edu) for any further questions on the dataset or baseline results. 
 
 }
 
