@@ -40,7 +40,7 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-please contact Sharib Ali or Debesh Jha (debesh.jha@northwestern.edu) for any further questions on the dataset or baseline results. 
+please contact Sharib Ali (s.s.ali@leeds.ac.uk) or Debesh Jha (debesh.jha@northwestern.edu) for any further questions on the dataset or baseline results.
 
 }
 
