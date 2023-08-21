@@ -40,7 +40,6 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-please contact Sharib Ali (s.s.ali@leeds.ac.uk) for any further questions on the dataset or baseline results.
-
+Please contact Sharib Ali (s.s.ali@leeds.ac.uk) for any further questions on the dataset/baseline results or for commericialization.
 }
 
