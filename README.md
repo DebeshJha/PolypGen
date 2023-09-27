@@ -1,8 +1,8 @@
 ## A multi-centre polyp detection and segmentation dataset for generalisability assessment
 
-Please feel free to download PolypGen dataset by using https://www.synapse.org/#!Synapse:syn26376615/wiki/613312
+Please feel free to **download PolypGen dataset** by using https://www.synapse.org/#!Synapse:syn26376615/wiki/613312
 
-Please find the link for the cropped video sequence. 
+Please find the link for the **cropped video sequence**. 
 <img src="collage_polypgen (1).png">
 
 https://drive.google.com/drive/folders/16uL9n84SrMt7IiQFzTUQNaJ9TbHJ8DhW?usp=sharing
