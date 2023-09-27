@@ -35,8 +35,7 @@ Please cite our paper if you find the work useful:
   volume={10},
   number={1},
   pages={75},
-  year={2023},
-  publisher={Nature Publishing Group UK London}
+  year={2023}
 </pre>
 
 ## Contact
