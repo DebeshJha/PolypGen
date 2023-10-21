@@ -1,4 +1,4 @@
-## A multi-centre polyp detection and segmentation dataset for generalisability assessment
+## PolypGen: A multi-centre polyp detection and segmentation dataset for generalisability assessment
 
 Please feel free to **download PolypGen dataset** by using https://www.synapse.org/#!Synapse:syn26376615/wiki/613312
 
