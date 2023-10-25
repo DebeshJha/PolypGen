@@ -1,4 +1,4 @@
-## PolypGen: A multi-centre polyp detection and segmentation dataset for generalisability assessment
+# PolypGen: A multi-centre polyp detection and segmentation dataset for generalisability assessment
 
 Please feel free to **download PolypGen dataset** by using https://www.synapse.org/#!Synapse:syn26376615/wiki/613312
 
@@ -13,7 +13,7 @@ The dataset contains still images, video sequences, positive and negative-only f
 <img src="collage_polypgen (1).png">
 
 
-## Dataset examples
+# Dataset examples
 <img src="polyp_data_samples.png">
 Sample polyp annotations from each center: Segmentation area with boundaries and corresponding bounding box/boxes overlaid images from all six centers. Samples include both small sized polyp (<10000 pixels) including some flat polyp samples to large sized (≥40000 pixels) polyps and polyps during resection procedure such as polyps with blue dyes.
 
@@ -23,13 +23,13 @@ Sample polyp annotations from each center: Segmentation area with boundaries and
   <img src="t-SNE plot.png">
 t-SNE plot for positive samples: 2D t-SNE embedding of the “PolypGen” dataset based on deep autoencoder extracted features. Each point is an image in the positive samples of the dataset. For each of the six boxed regions (dashed black lines) 25 images were randomly sampled for display in a 5 × 5 image grid. Here, the 1st boxed region represents mostly the sequence data. Interestingly, the 3rd, the 4th, and the 6th boxed regions mostly represent both polyp and non-polyp data and are heterogeneously distributed. Samples from 2nd and the 5th boxed regions shows mostly protruded polyps but with differently positioned endoscopy locations. Some samples in these also include the colonoscopy frames with dyes.
 
-## Baseline results
+# Baseline results
 
 The state-of-the-art results on each center of PolypGen and video sequence dataset can be found here:
 [Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing](https://arxiv.org/abs/2303.07428)
 
 
-## Citation
+# Citation
 Please cite our paper if you find the work useful: 
 <pre>
 @article{ali2023multi,
@@ -42,6 +42,6 @@ Please cite our paper if you find the work useful:
   year={2023}
 </pre>
 
-## Contact
+# Contact
 Please contact Sharib Ali (s.s.ali@leeds.ac.uk) and Debesh Jha (debesh.jha@northwestern.edu) for further questions on the dataset/baseline results or for commercialization.
 
